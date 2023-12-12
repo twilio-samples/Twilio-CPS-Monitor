@@ -44,5 +44,4 @@ python3 calculate_cps.py
 ```
 
 ## The output will appear as follows:
-![image](https://code.hq.twilio.com/storage/user/3964/files/fb359e32-6679-4e25-b7f7-b2cd0529d25e)
-
+![fb359e32-6679-4e25-b7f7-b2cd0529d25e](https://github.com/twilio-samples/Twilio-CPS-Monitor/assets/136878371/ba8c7ec9-05a5-4d6f-9251-c0f2d768ea04)
