@@ -23,7 +23,7 @@ In order to follow along, you’ll need:
 ### Step 2
 - Sign in to your Twilio account and head to the "[Calls](https://console.twilio.com/us1/monitor/logs/calls)" section within "**Monitor**" tab to gather call logs in CSV format for the specific timeframe you want to analyze CPS
   
-  <img width="223" alt="image" src="https://code.hq.twilio.com/storage/user/3964/files/c325a63c-8dfa-48fc-80b1-72c6d46967fb">
+  ![c325a63c-8dfa-48fc-80b1-72c6d46967fb](https://github.com/twilio-samples/Twilio-CPS-Monitor/assets/136878371/aac47d4e-4a06-4053-8e9f-4302d02af8df)
   
 - After downloading the file, rename the CSV file to **call_logs.csv**
 - Place the CSV file in the same directory **CPS_Count**
