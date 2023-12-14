@@ -13,9 +13,9 @@ df = df[df['Direction'] == 'Outgoing API']
 # Count calls for each second
 cps_per_second = df.resample('S', on='Date Created').size()
 
-top_10_cps_values = cps_per_second.nlargest(10)
+top_cps_values = cps_per_second.nlargest(20)
 
-print("Top 10 CPS values:")
-print('\n'.join(top_10_cps_values.to_string(index=True, header=False).splitlines()[:-1]))
+print("Top CPS values with timestamps:")
+print('\n'.join(top_cps_values.to_string(index=True, header=False).splitlines()[:-1]))
 
 
