@@ -46,4 +46,4 @@ python3 calculate_cps.py
 ### Output
 - The output will consist of highest CPS values, accompanied by the timestamps of the call creation and will appear as follows:
   
-  <img width="500" alt="output" src="https://github.com/twilio-samples/Twilio-CPS-Monitor/assets/136878371/0f35feee-6001-4fd9-a95d-1937d598fbfb">
+  <img width="450" alt="Screenshot 2023-12-14 at 4 33 26 PM" src="https://github.com/twilio-samples/Twilio-CPS-Monitor/assets/136878371/d8f90651-cd20-4762-a287-3fcd7c140a40">
