@@ -38,10 +38,12 @@ pip install pandas
 ```js
 cd CPS_Count
 ```
-- Execute the Python script within the directory to retrieve the top 10 highest CPS values, accompanied by the timestamps of the call creation 
+- Execute the Python script within the directory  
 ```js
 python3 calculate_cps.py
 ```
 
-## The output will appear as follows:
-![fb359e32-6679-4e25-b7f7-b2cd0529d25e](https://github.com/twilio-samples/Twilio-CPS-Monitor/assets/136878371/ba8c7ec9-05a5-4d6f-9251-c0f2d768ea04)
+### Output
+- The output will consist of 10 highest CPS values, accompanied by the timestamps of the call creation and will appear as follows:
+  
+  ![fb359e32-6679-4e25-b7f7-b2cd0529d25e](https://github.com/twilio-samples/Twilio-CPS-Monitor/assets/136878371/ba8c7ec9-05a5-4d6f-9251-c0f2d768ea04)
